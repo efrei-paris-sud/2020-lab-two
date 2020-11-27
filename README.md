@@ -171,3 +171,17 @@ In one side, a relay has 3 digital ports. two of them are for VCC and GND and on
 
 |Ex.6 | Find MPU 5060 Library and rewrite your codes to show Accelerometer data in LCD.
 ---|---
+
+
+
+# Fritzing
+The software is created in the spirit of the Processing programming language and the Arduino microcontroller[4] and allows a designer, artist, researcher, or hobbyist to document their Arduino-based prototype and create a PCB layout for manufacturing. 
+
+- [Download Fritzing](https://github.com/fritzing/fritzing-app/releases/tag/CD-268)
+- Create a new `sketch`.
+- Create the step 1 sketch your self (please don't forget connect them and use different colors in wiring- NOTE: USE RED for `VCC` and BLUE for `GROUND`)
+-- Export the result as image(`lab/2/exercise/0/sketch.png`)
+- Design the Schematic of that. Please style it in a good format.
+-- Export the result as image(`lab/2/exercise/0/schematic.png`)
+- Make a (`lab/2/exercise/0/README.md`) file and put a the images and a small description on it and **USE MARKDOWN FORMAT PLEASE**. For images please use the uploaded images from your `github`.
+[Example Report](https://github.com/efrei-paris-sud/2019-sample-project/tree/master/lab/1/report/1)
