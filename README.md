@@ -89,7 +89,7 @@ To use I2C, It is necessary to have at least one master. The master component se
 The master component is the one who control the bus. Whenever the master want to send or receive data from a specific device, it write the address of the device and R/W bit (Read/Write bit: to specify the device should read from or write on data line) on the data line. Then the slave write one ACK bit (acknowledge bit) in the data line whenever it receives its address. After that, regarding to the  R/W bit, master or slave will write on the data line. Each data transmission composed of 8 bit (written by the data sender) and one ACK bit (written by the data receiver). The data part will be repeated until master sends a NACK (not acknowledge). The NACK is followed by STOP sign. In addition, The master also component produces the clock signal.  
 ![i2c-proto](i2c-protocol.png?raw=true)
 
-|Ex.1|Specifiy the I2C pins (SDA and SCL) in your devices such as micro controller, sensors, actuators.
+|Ex.2|Specifiy the I2C pins (SDA and SCL) in your devices such as micro controller, sensors, actuators.
 ---|---
 
 
