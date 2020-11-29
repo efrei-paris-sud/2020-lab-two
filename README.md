@@ -1,8 +1,11 @@
 
 # Lab 2 Introduction to communication 
 > It is mandetory to prepare your documents in `Markdown` format. We prepared an example repository in [Lab Report Sample](https://github.com/efrei-paris-sud/2019-sample-project/tree/master/lab/1). 
-> All needed codes described in this repository. For more details about markdown please visit the [Example Report](https://github.com/efrei-paris-sud/2019-sample-project/tree/master/lab/1/report/1)
-You can also use https://stackedit.io/ to easily create a markdown document.
+> All needed codes described in this repository. [Example Report](https://github.com/efrei-paris-sud/2020-sample-project/tree/master/lab/1)
+
+If you need some help on Markdown you can use [this link](https://github.com/efrei-paris-sud/2020-sample-project/blob/main/assets/Markdown-cheatsheet.md)
+
+
 
 Please put all reports into `lab/2/` folder in your repository.
 > Report Deadline = 03/12/2020
@@ -67,7 +70,7 @@ You can view the console by clicking on the following icon:
 
 
 
-|Ex.1|  Develop an arduino program which can read a byte from serial  and adjust the passive buzzer frequency with that. Write a response that your buzzer frequency changed to the read value. (`lab/2/exercise/2/code1.ino`).
+|Ex.1|  Develop an arduino program which can read a byte from serial  and adjust the passive buzzer frequency with that. Write a response that your buzzer frequency changed to the read value. (`lab/2/ex2/code1.ino`).
 ---|---
 ||Connect your Arduino board to computer. Open a serial communication software (You can use built in serial monitor in Arduino IDE by pressing `ctrl`+`shift`+`M`
 
@@ -180,8 +183,8 @@ The software is created in the spirit of the Processing programming language and
 - [Download Fritzing](https://github.com/fritzing/fritzing-app/releases/tag/CD-268)
 - Create a new `sketch`.
 - Create the step 1 sketch your self (please don't forget connect them and use different colors in wiring- NOTE: USE RED for `VCC` and BLUE for `GROUND`)
--- Export the result as image(`lab/2/exercise/0/sketch.png`)
+-- Export the result as image(`lab/2/ex0/sketch.png`)
 - Design the Schematic of that. Please style it in a good format.
--- Export the result as image(`lab/2/exercise/0/schematic.png`)
-- Make a (`lab/2/exercise/0/README.md`) file and put a the images and a small description on it and **USE MARKDOWN FORMAT PLEASE**. For images please use the uploaded images from your `github`.
-[Example Report](https://github.com/efrei-paris-sud/2019-sample-project/tree/master/lab/1/report/1)
+-- Export the result as image(`lab/2/ex0/schematic.png`)
+- Make a (`lab/2/ex0/README.md`) file and put a the images and a small description on it and **USE MARKDOWN FORMAT PLEASE**. For images please use the uploaded images from your `github`.
+[Example Report](https://github.com/efrei-paris-sud/2020-sample-project/tree/master/lab/1)
