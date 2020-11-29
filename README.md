@@ -1,7 +1,6 @@
 
 # Lab 2 Introduction to communication 
-> It is mandetory to prepare your documents in `Markdown` format. We prepared an example repository in [Lab Report Sample](https://github.com/efrei-paris-sud/2019-sample-project/tree/master/lab/1). 
-> All needed codes described in this repository. [Example Report](https://github.com/efrei-paris-sud/2020-sample-project/tree/master/lab/1)
+> It is mandetory to prepare your documents in `Markdown` format. We prepared an example repository in [Lab Report Sample](https://github.com/efrei-paris-sud/2020-sample-project/tree/master/lab/1). 
 
 If you need some help on Markdown you can use [this link](https://github.com/efrei-paris-sud/2020-sample-project/blob/main/assets/Markdown-cheatsheet.md)
 
